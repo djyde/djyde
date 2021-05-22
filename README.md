@@ -1,6 +1,8 @@
 [![Randy's github stats](https://github-readme-stats.vercel.app/api?username=djyde)](https://github.com/anuraghazra/github-readme-stats)
 
-我是 Randy, [独立博客](https://lutaonan.com)作者，主要写 JavaScript, 最近在学 Go. 希望写代码写到 60 岁，或者创造一个和 Apple 一样伟大的企业 —— 既不丢掉用户体验，又能实现商业价值。
+I'm creating open-source SaaS projects.
 
 - Email: randypriv at gmail
 - Twitter: @randyloop
+
+[Sponsor me](https://www.patreon.com/djyde)
