@@ -4,5 +4,3 @@ I'm creating open-source SaaS projects.
 
 - Email: randypriv at gmail
 - Twitter: @randyloop
-
-[Sponsor me](https://www.patreon.com/djyde)
