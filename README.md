@@ -4,6 +4,7 @@ I'm creating open-source SaaS projects.
 
 - Email: randypriv at gmail
 - Twitter: @randyloop
+- Mastodon: <a rel="me">mas.to/@djyde</a>
 
 ## Sponsors
 
